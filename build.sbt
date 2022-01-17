@@ -1,4 +1,4 @@
-name := "resy-booking-bot"
+name := "yelp-booking-bot"
 
 scalaVersion := "2.13.4"
 
